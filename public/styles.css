@@ -3,7 +3,16 @@
   box-sizing: border-box;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 450px) {
+
+  h1 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #f4f4f4;
+    letter-spacing: 1px; /* da un aire más elegante */
+  }
+
   #menu ul {
     align-items: center;
   }
@@ -13,10 +22,16 @@
 
   #menu a {
     display: block;
-    width: 80%;
+    width: 70%;
     text-align: center;
     padding: 0.75rem;
     font-size: 1rem;
+  }
+
+  .header-img {
+    width: 150px;                
+    height: 150px;
+    border-radius: 30%;         
   }
 
   section {
