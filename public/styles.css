@@ -7,11 +7,18 @@
 
   h1 {
     font-family: 'Poppins', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 700;
     color: #f4f4f4;
     letter-spacing: 1px; /* da un aire más elegante */
   }
+
+header p {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;   /* más delgado */
+  font-size: 0.8rem;
+  color: #f4f4f4;
+}
 
   #menu ul {
     align-items: center;
