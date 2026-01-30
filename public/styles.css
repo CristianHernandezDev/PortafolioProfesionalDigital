@@ -5,31 +5,6 @@
 
 @media (max-width: 420px) {
 
-  h1 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 1rem;
-    font-weight: 700;
-    color: #f4f4f4;
-    letter-spacing: 1px; /* da un aire más elegante */
-  }
-
-header p {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;   /* más delgado */
-  font-size: 0.8rem;
-  color: #f4f4f4;
-}
-
-  #menu li {
-    margin-bottom: 0.2rem;
-  }
-
-  .header-img {
-    width: 100px;                
-    height: 100px;
-    border-radius: 30%;         
-  }
-
   section {
     padding: 1.5rem 0.5rem;
   }
