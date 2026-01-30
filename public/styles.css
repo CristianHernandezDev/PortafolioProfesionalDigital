@@ -60,6 +60,8 @@ header p {
   background: #222;
   padding: 1rem 0;
   transition: all 0.3s ease;
+  justify-content: center;
+  align-items: center;
 }
 
 /*Sombra de contenedor de botones*/
