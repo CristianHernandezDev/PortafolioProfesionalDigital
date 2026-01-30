@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 760px) {
 
   h1 {
     font-family: 'Poppins', sans-serif;
